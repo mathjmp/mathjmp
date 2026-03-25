@@ -1,12 +1,22 @@
-<!-- GitHub Profile Stats Section -->
-<div align="center" style="font-family: Arial, sans-serif;">
+# 👋 Hello Humans
 
-  <h1 style="margin-bottom: 5px;">📊 My GitHub Stats</h1>
-  <p style="color: #666;">Tracking my progress, commits, and most used technologies</p>
+🎯 Aspiring Machine Learning Engineer
+📚 Focused on Statistics, Calculus, and AI
+⚡ Building projects from scratch to deeply understand concepts
 
-  <br>
+---
 
-  <!-- Stats Cards -->
+## 🚀 About Me
+
+* 🧠 Studying **Mathematics for Machine Learning**
+* 💻 Implementing algorithms **from scratch (no libraries first)**
+* 📈 Interested in **data, optimization, and model behavior**
+* 🔥 Consistent daily coding and learning habit
+
+---
+
+## 📊 GitHub Stats
+
 <table align="center">
   <tr>
     <td valign="top">
@@ -18,41 +28,72 @@
   </tr>
 </table>
 
-  <br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mathjmp&theme=tokyonight&hide_border=true"/>
+</p>
 
-  <!-- Streak Stats -->
-  <div>
-    <img 
-      src="https://streak-stats.demolab.com?user=mathjmp&theme=tokyonight&hide_border=true"
-      height="170"
-    />
-  </div>
+---
 
-  <br>
+## 🧠 Current Focus
 
-  <!-- Custom Highlights -->
-  <div style="
-    background: #0d1117;
-    border-radius: 12px;
-    padding: 20px;
-    width: 80%;
-    margin: auto;
-    box-shadow: 0 0 10px rgba(0,0,0,0.3);
-  ">
-    <h2 style="color: #58a6ff;">🚀 Highlights</h2>
-    <ul style="list-style: none; padding: 0; color: #c9d1d9;">
-      <li>💻 Building Machine Learning models from scratch</li>
-      <li>📈 Focused on Statistics, Calculus & AI</li>
-      <li>🔥 Consistent daily coding habit</li>
-      <li>⚙️ Working with Python, NumPy, and data analysis</li>
-    </ul>
-  </div>
+* 📊 Linear & Polynomial Regression
+* 📉 Gradient Descent (from scratch)
+* 🔢 Calculus (derivatives & optimization)
+* 📚 Probability & Statistics
 
-  <br>
+---
 
-  <!-- Footer -->
-  <p style="color: #666; font-size: 14px;">
-    ⚡ Always learning. Always building.
-  </p>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Machine Learning From Scratch
+
+* Implementing models without libraries
+* Focus on understanding math behind algorithms
+
+### 🔹 Regression Models
+
+* Linear Regression
+* Polynomial Regression
+* Visualization and error analysis
+
+---
+
+## 🎯 Goals
+
+* Master **Mathematics for Machine Learning**
+* Build **real-world ML projects**
+* Contribute to **open-source AI projects**
+* Land a role in **Big Tech / AI Engineering**
+
+---
+
+## ⚡ Philosophy
+
+> “Don’t just use models. Understand them.”
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathjmp&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Fun Fact
+
+I prefer building algorithms from scratch before using libraries —
+because understanding > memorizing.
+
+---
 
 </div>
