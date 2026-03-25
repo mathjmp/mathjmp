@@ -1,4 +1,3 @@
-```html
 <!-- GitHub Profile Stats Section -->
 <div align="center" style="font-family: Arial, sans-serif;">
 
@@ -62,4 +61,3 @@
   </p>
 
 </div>
-```
