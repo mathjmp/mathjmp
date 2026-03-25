@@ -7,21 +7,16 @@
   <br>
 
   <!-- Stats Cards -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-
-    <!-- General Stats -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=mathjmp&show_icons=true&theme=tokyonight&hide_border=true"
-      height="170"
-    />
-
-    <!-- Top Languages -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathjmp&layout=compact&theme=tokyonight&hide_border=true"
-      height="170"
-    />
-
-  </div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mathjmp&show_icons=true&theme=tokyonight" height="165"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathjmp&layout=compact&theme=tokyonight" height="165"/>
+    </td>
+  </tr>
+</table>
 
   <br>
 
