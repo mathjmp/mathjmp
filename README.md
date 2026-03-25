@@ -1,8 +1,8 @@
 # 👋 Hello Humans
 
-🎯 Aspiring Machine Learning Engineer
-📚 Focused on Statistics, Calculus, and AI
-⚡ Building projects from scratch to deeply understand concepts
+* 🎯 Aspiring Machine Learning Engineer
+* 📚 Focused on Statistics, Calculus, and AI
+* ⚡ Building projects from scratch to deeply understand concepts
 
 ---
 
@@ -46,7 +46,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,golang,java,python,aws,mongodb,mysql,terraform,numpy,pandas,git,github,vscode" />
 </p>
 
 ---
