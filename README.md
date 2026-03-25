@@ -9,11 +9,11 @@
   <!-- Stats Cards -->
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mathjmp&show_icons=true&theme=tokyonight" height="165"/>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=mathjmp&show_icons=true&theme=tokyonight&hide_border=true"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathjmp&layout=compact&theme=tokyonight" height="165"/>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathjmp&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
 </table>
