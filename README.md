@@ -46,7 +46,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,golang,java,python,aws,mongodb,mysql,terraform,numpy,pandas,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,golang,java,python,linux,vim,docker,redis,nginx,mongodb,mysql,terraform,git,github,grafana,aws,ai" />
 </p>
 
 ---
